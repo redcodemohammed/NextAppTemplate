@@ -1,0 +1,35 @@
+{
+  "numTotalTestSuites": 2,
+  "numPassedTestSuites": 2,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 1,
+  "numPassedTests": 1,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1671111523908,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "BaseTemplate"
+          ],
+          "fullName": " BaseTemplate it renders the sample text",
+          "status": "passed",
+          "title": "it renders the sample text",
+          "duration": 14,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1671111525339,
+      "endTime": 1671111525353,
+      "status": "passed",
+      "message": "",
+      "name": "/home/mohammed/Projects/speetu/publitas/spott-clone/components/templates/base/BaseTemplate.test.tsx"
+    }
+  ]
+}
